@@ -1,6 +1,5 @@
 # Titanic_Dataset
 <br />
-Project1
 <br />
 Revan Thakkar
 <br />
