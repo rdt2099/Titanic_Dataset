@@ -1,6 +1,5 @@
 # Titanic_Dataset
 <br />
-<br />
 Revan Thakkar
 <br />
 University of Texas at Arlington
